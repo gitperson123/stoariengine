@@ -8,6 +8,4 @@
 </p> -->
 
 ![image](https://user-images.githubusercontent.com/103964270/165757618-bc01b7dd-3cdb-45d1-a717-59276af3dde7.png)
-![image](https://user-images.githubusercontent.com/103964270/165763825-1283d0f0-3208-4287-8fb3-092f155b831e.png)
-
 
